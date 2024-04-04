@@ -38,6 +38,6 @@ To test the extension, simply browse the web as you normally would 🌍. The ser
 For a detailed demonstration of how the extension works, including both base and bonus cases, please refer to the accompanying video file 📹.
 
 
-[![Video Name](https://www.dsecctv.com/images/Demo%20clip%20icon%20md.png)](https://drive.google.com/file/d/11e0U9Peo4QVR5j1-sNtrJiV1tzbneyoL/view?usp=sharing)
+[![Video Name](https://github.com/paras98/Malicious_extension_Privacy/blob/main/Repo_Resource/DEMO_SS.png)](https://drive.google.com/file/d/11e0U9Peo4QVR5j1-sNtrJiV1tzbneyoL/view?usp=sharing)
 
 ---
